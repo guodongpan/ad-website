@@ -6,6 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const isProduct = process.env.NODE_ENV === 'production';
 
+console.log(isProduct,"==================================================")
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '阿东的网站',
@@ -17,7 +19,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // baseUrl: '/',
-  baseUrl: isProduct ? '/ad-website' : "/ad-website",
+  baseUrl: isProduct ? '/ad-website/' : "/ad-website/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
