@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>阿东的网站 Blog</title>
+        <link>https://your-docusaurus-test-site.com/ad-website/blog</link>
+        <description>阿东的网站 Blog</description>
+        <lastBuildDate>Fri, 27 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[第一篇博客]]></title>
+            <link>https://your-docusaurus-test-site.com/ad-website/blog/2023102701</link>
+            <guid>https://your-docusaurus-test-site.com/ad-website/blog/2023102701</guid>
+            <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是我的第一篇博客，开始于，以上时间。]]></description>
+            <content:encoded><![CDATA[<p>这是我的第一篇博客，开始于，以上时间。</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/ad-website/zh-Hans/blog</id>
+    <title>阿东的网站 Blog</title>
+    <updated>2023-10-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/ad-website/zh-Hans/blog"/>
+    <subtitle>阿东的网站 Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/ad-website/zh-Hans/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[第一篇博客]]></title>
+        <id>https://your-docusaurus-test-site.com/ad-website/zh-Hans/blog/2023102701</id>
+        <link href="https://your-docusaurus-test-site.com/ad-website/zh-Hans/blog/2023102701"/>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是我的第一篇博客，开始于，以上时间。]]></summary>
+        <content type="html"><![CDATA[<p>这是我的第一篇博客，开始于，以上时间。</p>]]></content>
+    </entry>
+</feed>
